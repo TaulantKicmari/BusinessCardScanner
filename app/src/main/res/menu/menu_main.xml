@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.taulant.businesscards.MainActivity">
+    <item
+        android:id="@+id/action_cardList"
+        android:orderInCategory="100"
+        android:title="My Cards"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_addInstructions"
+        android:orderInCategory="100"
+        android:title="Add Card"
+        app:showAsAction="never" />
+</menu>

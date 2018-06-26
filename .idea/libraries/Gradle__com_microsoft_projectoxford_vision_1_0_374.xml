@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.projectoxford:vision-1.0.374">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/vision-1.0.374.aar/e01624f8800170df77388097cd9ca680/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/vision-1.0.374.aar/e01624f8800170df77388097cd9ca680/jars/libs/commons-io-2.4.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/vision-1.0.374.aar/e01624f8800170df77388097cd9ca680/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
